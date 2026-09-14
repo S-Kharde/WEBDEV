@@ -15,4 +15,6 @@ let address = null
 // boolean => true/false
 // null => standalone value
 // undefined =>
-// symbol => unique
+// symbol => uniqueness
+
+console.log(typeof age)
